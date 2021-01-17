@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TTP-Assignment-7-GIPHY/static/css/main.3faa3201.chunk.css",
+    "main.js": "/TTP-Assignment-7-GIPHY/static/js/main.5edf3b79.chunk.js",
+    "main.js.map": "/TTP-Assignment-7-GIPHY/static/js/main.5edf3b79.chunk.js.map",
+    "runtime-main.js": "/TTP-Assignment-7-GIPHY/static/js/runtime-main.a742b20f.js",
+    "runtime-main.js.map": "/TTP-Assignment-7-GIPHY/static/js/runtime-main.a742b20f.js.map",
+    "static/js/2.402029d2.chunk.js": "/TTP-Assignment-7-GIPHY/static/js/2.402029d2.chunk.js",
+    "static/js/2.402029d2.chunk.js.map": "/TTP-Assignment-7-GIPHY/static/js/2.402029d2.chunk.js.map",
+    "static/js/3.b89cb63b.chunk.js": "/TTP-Assignment-7-GIPHY/static/js/3.b89cb63b.chunk.js",
+    "static/js/3.b89cb63b.chunk.js.map": "/TTP-Assignment-7-GIPHY/static/js/3.b89cb63b.chunk.js.map",
+    "index.html": "/TTP-Assignment-7-GIPHY/index.html",
+    "static/css/main.3faa3201.chunk.css.map": "/TTP-Assignment-7-GIPHY/static/css/main.3faa3201.chunk.css.map",
+    "static/js/2.402029d2.chunk.js.LICENSE.txt": "/TTP-Assignment-7-GIPHY/static/js/2.402029d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a742b20f.js",
+    "static/js/2.402029d2.chunk.js",
+    "static/css/main.3faa3201.chunk.css",
+    "static/js/main.5edf3b79.chunk.js"
+  ]
+}
