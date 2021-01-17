@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './GifCard.css';
 
 const GifCard = props => {
     return (
