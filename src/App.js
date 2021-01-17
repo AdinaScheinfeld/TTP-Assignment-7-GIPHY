@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
-import SearchField from './components/SearchField'
-import GifCard from './components/GifCard'
+import React, { Component } from 'react';
+import SearchField from './components/SearchField';
+import GifCard from './components/GifCard';
 import './App.css';
 
 

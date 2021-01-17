@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import './SearchField.css';
 
 class SearchField extends Component {
 
@@ -58,7 +59,7 @@ class SearchField extends Component {
             <div className='container'>
 
                 <div className='searchBar'>
-                    <input type='text' placeholder='Find GIFs...' onChange={this.getUserInput} />
+                    <input type='text' placeholder='Find GIFs...' onChange={this.getUserInput} id='bar'/>
                 </div>
 
                 <div className='buttons'>
